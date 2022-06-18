@@ -1,0 +1,37 @@
+id: IFE8FE153
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:29:27.671797'
+last_modified: '2022-06-18T19:29:27.671808'
+parser: null
+source_metadata:
+  title: Record of teachings received of the rGyud sde kun btus
+  author: jam dbyangs blo gter dbang po/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-10-29); glosses not encoded, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by Sachen International,
+    Kathmandu (Nepal). (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/779
+  bases:
+    472c:
+      title: Record of teachings received of the rGyud sde kun btus
+      order: 1
+      base_file: 472c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
